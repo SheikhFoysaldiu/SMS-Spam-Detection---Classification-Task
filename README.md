@@ -1,6 +1,6 @@
 # SMS-Spam-Detection---Classification-Task
 Making a SMS Spam Classification Task Using Classification Algorithm. Data-set available on Keggle. 
-# Final Outpu
+# Final Output
 https://github.com/SheikhFoysaldiu/SMS-Spam-Detection---Classification-Task/assets/87323178/c8c16b40-76db-40b5-8407-ab56de2a92a6
 
 
